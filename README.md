@@ -1,8 +1,14 @@
-# Hola , soy Nightie 🤖
+# Hello , soy Nightie 🤖
 
-## Sobre mí
+## About me
 
-Soy un apasionado desarrollador en formación con un gran interés en el desarrollo de videojuegos, aplicaciones y páginas web utilizando C#. Actualmente estoy enfocado en aprender y mejorar mis habilidades en:
+I am a software developer on formation with a big interest in videogames develop, apps and web pages using C#. Right now i´m focused on learning and improve mi skills in:
 
-*   C# y .NET.
-*   Desarrollo web con ASP.NET Core.
+*   C# and .NET.
+*   Web develop with ASP.NET Core.
+## Now Learning 🎓
+
+* C#
+* JavaScript
+* Java
+* Python
