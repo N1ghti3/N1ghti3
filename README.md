@@ -1,4 +1,4 @@
-# Hello , soy Nightie 🤖
+# Hello , I am Nightie 🤖
 
 ## About me
 
