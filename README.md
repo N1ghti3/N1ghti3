@@ -11,4 +11,3 @@ I am a software developer on formation with a big interest in videogames develop
 * C#
 * JavaScript
 * Java
-* Python
