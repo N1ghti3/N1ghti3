@@ -6,6 +6,7 @@ I am a software developer on formation with a big interest in videogames develop
 
 *   C# and .NET.
 *   Web develop with ASP.NET Core.
+*   Game develop in Unity
 ## Now Learning 🎓
 
 * C#
